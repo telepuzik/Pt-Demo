@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6b745e7b-c47a-471b-b978-3a474732cc93" 
+        solutionId="6b745e7b-c47a-471b-b978-3a474732cc93" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppMyProfile"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="2bc73221-81c8-468c-90c1-2c379d746728" />
+  </features>
+</package>

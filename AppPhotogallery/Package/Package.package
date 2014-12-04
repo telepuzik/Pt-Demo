@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="0837a3fe-6b00-4d2f-988f-23d66ffe92a9" 
+        solutionId="0837a3fe-6b00-4d2f-988f-23d66ffe92a9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppPhotogallery"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="d717438c-1780-437f-a9ed-e8001013fae4" />
+  </features>
+</package>

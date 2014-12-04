@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="d7a39a44-205b-47e1-9f3f-e262dacf93d4" 
+        solutionId="d7a39a44-205b-47e1-9f3f-e262dacf93d4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppBlogs"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="9bef5b3d-0c15-4ebb-ab0e-5faf167b9987" />
+  </features>
+</package>

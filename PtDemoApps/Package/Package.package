@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="92e0f759-1803-48ac-b6e1-0e8f1f5e12db" 
+        solutionId="92e0f759-1803-48ac-b6e1-0e8f1f5e12db" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PtDemoApps"
+        sharePointProductVersion="15.0">
+</package>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="9d7ec4bd-6915-4c93-a3e7-5f6ade9cd078" 
+        solutionId="9d7ec4bd-6915-4c93-a3e7-5f6ade9cd078" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppIdeas"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="e62932d2-ffb5-4d4a-bb08-492be737fbfe" />
+  </features>
+</package>

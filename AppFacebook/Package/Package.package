@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="5d68e022-4ab6-47e6-868f-efe1c16e332b" 
+        solutionId="5d68e022-4ab6-47e6-868f-efe1c16e332b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppFacebook"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="b5c8558a-a552-43f2-bb0a-037d55fe2934" />
+  </features>
+</package>

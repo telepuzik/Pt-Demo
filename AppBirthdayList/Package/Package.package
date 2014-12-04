@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="5ea6d876-ea88-4942-b7fe-e64e17a9c0af" 
+        solutionId="5ea6d876-ea88-4942-b7fe-e64e17a9c0af" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppBirthdayList"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="93e2c5cb-a283-49a6-87d9-182b4b2c79cd" />
+  </features>
+</package>

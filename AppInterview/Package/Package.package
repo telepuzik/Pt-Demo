@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="ebe22dec-0408-40f0-8082-bbde5664215f" 
+        solutionId="ebe22dec-0408-40f0-8082-bbde5664215f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppInterview"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="60d4025f-77f0-4452-8d62-8796fc1a7967" />
+  </features>
+</package>

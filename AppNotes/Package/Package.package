@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e2610b1b-c2dc-48a5-b1fa-47aaeb3320bb" 
+        solutionId="e2610b1b-c2dc-48a5-b1fa-47aaeb3320bb" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppNotes"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="14082291-152e-42b3-bfd7-44e6660a6541" />
+  </features>
+</package>

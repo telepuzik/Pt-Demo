@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="8d2dd003-da04-4644-a5f7-e9d0fdf23576" 
+        solutionId="8d2dd003-da04-4644-a5f7-e9d0fdf23576" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppHooray"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="088662ad-a1e9-4ff9-9854-61a942a58430" />
+  </features>
+</package>
